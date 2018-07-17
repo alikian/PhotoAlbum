@@ -1,5 +1,7 @@
 #Photo Album
 
+[![Build Status](https://travis-ci.org/alikian/PhotoAlbum.svg?branch=master)](https://travis-ci.org/alikian/PhotoAlbum)
+
 ## Build
 Use following command to build jar file (maven 3 or higher required):
 
