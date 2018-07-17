@@ -32,7 +32,7 @@ docker run -p 8080:8080 -t alikian/photoalbum
 ```
 
 
-Pull it from Run it in docker.io hub:
+Pull it from docker.io hub:
 ```
 docker pull alikian/photoalbum:latest
 docker run -p 8080:8080 -t alikian/photoalbum 
