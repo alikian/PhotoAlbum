@@ -11,7 +11,7 @@ services:
 install:
   - mvn clean install dockerfile:build
   - echo "$DOCKER_PASSWORD" | docker login -u "$DOCKER_USERNAME" --password-stdin
-  - docker push alikian/sprintboot
+  - docker push alikian/sprintboot:latest
 
 
 cache:
